@@ -36,7 +36,6 @@
 
 $active_group = "default";
 $active_record = TRUE;
-
 //正式环境配置
 $db['default']['hostname'] = "127.0.0.1";
 $db['default']['username'] = "greg";
@@ -89,7 +88,6 @@ $db['auth']['cache_on'] = FALSE;
 $db['auth']['cachedir'] = "";
 $db['auth']['char_set'] = "utf8";
 $db['auth']['dbcollat'] = "utf8_general_ci";
-
 
 /* End of file database.php */
 /* Location: ./system/application/config/database.php */
